@@ -1,2 +1,3 @@
 # Gallary
-Leant css, js and made a basic gallary 
+Made a basic gallary using css and js.
+
